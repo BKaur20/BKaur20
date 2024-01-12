@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BKaur20
-- 👀 I’m interested in programming, and android development
-- 🌱 I’m currently learning data structures and AI
+- 👀 I’m interested in programming, and web development
+- 🌱 I’m currently learning data structures and ML/DL
 - 💞️ I’m looking to collaborate on open source contributions
 - 📫 How to reach me - k.bisman16@gmail.com
 
